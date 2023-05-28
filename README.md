@@ -1,6 +1,9 @@
 # Run tests
 npm run wdio
 
+# Tools
+WebdriverIO + Javascript
+
 # …or create a new repository on the command line
 echo "# paramo" >> README.md
 git init
